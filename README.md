@@ -1,6 +1,6 @@
 # UoS SYSTEM ENGINEERING - DEVOPS
 
-![image](https://github.com/Karlie-crypto/alx-system_engineering-devops/assets/110098940/96ecb794-593f-432f-8cee-b98a79df8f19)
+![image](https://github.com/user-attachments/assets/75df1c28-65ec-4857-9f16-2929dce3043d)
 
 This repository contains programs created for the _**Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C and shell scripting. Hey you! Come let's do hard things. The following is a specific list of projects : Don't just copy, press a follow button!!! 👩🏽‍💻
 
