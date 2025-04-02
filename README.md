@@ -6,9 +6,9 @@ This repository contains programs created for the _**Software Engineering** Prog
 
 | PR.NO | PROJECT                                                                                                                                                 | DESCRIPTION |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 0x00  | [Shell, basics](./0x00-shell_basics/)                                                                                                                   |             |
-| 0x01  | [Shell, Permissions](./0x01-shell_permissions/)                                                                                                         |             |
-| 0x02  | [Shell, Redirections](./0x02-shell_redirections/)                                                                                                       |             |
+| 0x00  | [Shell, basics](./0x00-shell_basics/)                                                                                                                   | A shell is a command-line interpreter that allows you to interact with the operating system                 |            
+| 0x01  | [Shell, Permissions](./0x01-shell_permissions/)                                                                                                         | The access control mechanism that governs who can perform what operations on a file or directory            |
+| 0x02  | [Shell, Redirections](./0x02-shell_redirections/)                                                                                                       | The process of directing the input or output of a command or program to or from a file, device, or another command.  |
 | 0x03  | [Shell, Variable Expansions](./0x03-shell_variables_expansions/)                                                                                        |             |
 | 0x04  | [Loops, conditions and parsing](./0x04-loops_conditions_and_parsing/)                                                                                   |             |
 | 0x05  | [Proccesses and signals](./0x05-processes_and_signals/)                                                                                                 |             |
