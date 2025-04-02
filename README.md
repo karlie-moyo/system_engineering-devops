@@ -1,8 +1,8 @@
-# ALX SYSTEM ENGINEERING - DEVOPS
+# UoS SYSTEM ENGINEERING - DEVOPS
 
-![image](https://github.com/Karlie-crypto/alx-system_engineering-devops/assets/110098940/96ecb794-593f-432f-8cee-b98a79df8f19)
+![image](https://github.com/Karlie-crypto/system_engineering-devops/assets/110098940/96ecb794-593f-432f-8cee-b98a79df8f19)
 
-This repository contains programs created for the _**ALX Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C and shell scripting. Hey you! Come let's do hard things. The following is a specific list of projects :
+This repository contains programs created for the _**Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C and shell scripting. Hey you! Come let's do hard things. The following is a specific list of projects : Don't just copy, press a follow button!!! 👩🏽‍💻
 
 | PR.NO | PROJECT                                                                                                                                                 | DESCRIPTION |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -44,7 +44,7 @@ This repository contains programs created for the _**ALX Software Engineering** 
     <summary>KARLIE MOYO</summary>
     <ul>
         <li>
-            <a href="https://github.com/Karlie-crypto">Github</a>
+            <a href="https://github.com/karlie-moyo">Github</a>
         </li>
         <li>
             <a href="https://twitter.com/karlieemoyo">Twitter</a>
@@ -59,4 +59,4 @@ This repository contains programs created for the _**ALX Software Engineering** 
 
 ### Acknowledgements  :pray:
 ___
-All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this <a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
+All of the work in this project was conducted as part of the UoS-SE program's curriculum. 
